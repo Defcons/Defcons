@@ -4,6 +4,9 @@ Self-taught software engineer based in **Norway** 🇳🇴. I build full-stack w
 developer tooling, and self-hosted infrastructure — and I run a homelab I maintain a little too
 lovingly.
 
+Professionally I have **several years of experience in automation programming** — safety-critical
+work that doesn't live on GitHub — along with years of **scripting and automation in AutoHotkey**.
+
 I care deeply about **safety and security**: I favour secure-by-default designs, careful handling
 of data and access, and software that's tested and dependable enough to run in production. A lot of
 my work is also an ongoing experiment in **AI-assisted ("agentic") software engineering** —
@@ -32,7 +35,7 @@ collection.
 
 ## 🛠️ Tech I work with
 
-`TypeScript` · `JavaScript` · `Go` · `Python` · `Lua`
+`TypeScript` · `JavaScript` · `Go` · `Python` · `Lua` · `AutoHotkey`
 &nbsp;&nbsp;|&nbsp;&nbsp; Node / Express · React / Next.js · SQLite · Docker · self-hosted (Proxmox / homelab)
 
 ## 📫 Get in touch
