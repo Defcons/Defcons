@@ -21,12 +21,6 @@ and ship real software end to end.
 - **[clouddrive](https://github.com/Defcons/clouddrive)** — self-hosted file storage with a **Go**
   backend and **React + TypeScript** frontend: authentication & MFA, share links, granular
   permissions, trash/restore, and audit logging, packaged with **Docker**.
-- **[epoglogs](https://github.com/Defcons/epoglogs)** — a full-stack combat-log analytics platform:
-  a from-scratch log parser, a server-side ranking/percentile engine, and a custom wire protocol.
-  *Curated, runnable, tested engineering showcase (AGPL-3.0).*
-- **[epoch-sim](https://github.com/Defcons/epoch-sim)** — a damage/stat **simulation engine** in
-  **Go** with an embedded web UI: deterministic combat modelling, statistical analysis, and gear
-  optimisation. *Engineering showcase of one of my most-developed projects.*
 
 I spend most of my spare time on **self-hosting and home infrastructure** — running services on a
 Proxmox/Docker homelab, automating deployments, and building small tools to tie it all together.
