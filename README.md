@@ -52,4 +52,4 @@ collection.
 
 ## 📫 Get in touch
 
-- 📧 defc0ns@proton.me
+- 📧 davidsen908@gmail.com
