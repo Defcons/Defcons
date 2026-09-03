@@ -52,4 +52,4 @@ collection.
 
 ## 📫 Get in touch
 
-- 📧 davidsen908@gmail.com
+- 📧 martin@agentas.net
