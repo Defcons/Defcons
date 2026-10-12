@@ -18,9 +18,9 @@ ship real software end to end.
 
 ## 🔭 Featured work
 
-- **[clouddrive](https://github.com/Defcons/clouddrive)** — self-hosted file storage with a **Go**
-  backend and **React + TypeScript** frontend: authentication & MFA, share links, granular
-  permissions, trash/restore, and audit logging, packaged with **Docker**.
+- **[CloudDrive](https://agentas.net/projects/clouddrive/)**, a private tool for self-hosted file
+  storage with a **Go** backend and **React + TypeScript** frontend: authentication & MFA, share
+  links, granular permissions, trash/restore, and audit logging, packaged with **Docker**.
 - **[no-bs](https://github.com/Defcons/no-bs)** ([nobs.agentas.net](https://nobs.agentas.net)) — a
   no-nonsense **workout log**: sets, reps, kg, a rest timer, heart rate — local-first, no account, no
   subscription. **React + TypeScript** PWA, packaged for Android with **Capacitor**.
